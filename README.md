@@ -1,6 +1,6 @@
 # Distant Seas
 
-UE5 desktop game
+Merge **ue5** to **main** branch
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
