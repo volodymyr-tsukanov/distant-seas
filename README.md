@@ -3,6 +3,20 @@ UnrealEngine5 ; C++
 
 Default branch.
 
+## Rules
+Exclude from **git** (put into _Content/Assets/LRG/_):
+  - _Meshes_
+    - Skeletal Mesh
+  - _Animations_
+    - Animation Sequence
+  - _Rigs_
+    - Control Rig
+    - IK Rig
+  - _Textures_
+
+> [!IMPORTANT]
+> Not applied for prototyping
+
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
