@@ -1,6 +1,6 @@
-# Distant Seas
+# Assets Factory
 
-UE5 desktop game
+Branch, where assets been modified and optimized for game.
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
