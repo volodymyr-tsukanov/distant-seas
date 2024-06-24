@@ -61,3 +61,8 @@
 - [Pirate compass](https://sketchfab.com/3d-models/pirate-compass-3a51cfca26b34da7a8ac02af373cd130)
   **Author**: VincentBrindisi
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+
+## Materials
+### Fabric
+- [Old Worn Stained Fabric](https://freepbr.com/product/old-worn-stained-fabric-pbr-material/)
+  **Author**: freepbr.com
