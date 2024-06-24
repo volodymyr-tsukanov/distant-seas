@@ -16,7 +16,7 @@
 - [French Half-basket Sword](https://sketchfab.com/3d-models/french-half-basket-sword-of-1750-9c131770c72549b1bc8d29c2c5665212)
   **Author**: leeeck
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-- [British 1803 Slot Hilt Infantry Sabre](https://sketchfab.com/3d-models/british-1803-slot-hilt-infantry-sabre-d3cfc74714a74262859cb78fb7e58fde)
+- [British Infantry Sabre](https://sketchfab.com/3d-models/british-1803-slot-hilt-infantry-sabre-d3cfc74714a74262859cb78fb7e58fde)
   **Author**: leeeck
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
 - [Captain's Sword](https://sketchfab.com/3d-models/captains-sword-2c270885cd55439bb919fe7d69c01c70)

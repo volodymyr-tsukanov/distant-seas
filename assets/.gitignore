@@ -1,5 +1,10 @@
 # Extensions
+*.mtl
+
 *.png
 *.jpg
 
+*.blend
 *.blend1
+
+!*.7z
