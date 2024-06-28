@@ -1,3 +1,6 @@
+# Directories
+assets/*
+
 # Extensions
 *.fbx
 *.obj
@@ -9,3 +12,7 @@
 *.lib
 
 *.exe
+
+*.crpt
+*.cdcr
+*.ctmp

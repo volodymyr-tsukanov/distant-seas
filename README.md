@@ -4,6 +4,7 @@ UnrealEngine5 ; C++
 Default branch.
 
 ## Rules
+### Content
 Exclude from **git** (put into _Content/Assets/LRG/_):
   - _Meshes_
     - Skeletal Mesh
@@ -16,6 +17,10 @@ Exclude from **git** (put into _Content/Assets/LRG/_):
 
 > [!IMPORTANT]
 > Not applied for prototyping
+
+### Optimization
+- avoid multiple materials per object (not applied for main character)
+- 1 texture for cluster of items (excluding rare weapons/items)
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]

@@ -10,6 +10,9 @@
 - [Possessed Villager](https://sketchfab.com/3d-models/possessed-villager-60e39b9f42cc418887eea45157f24e42)
   **Author**: TooManyDemons
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Pirate](https://sketchfab.com/3d-models/bailey-moss-pirate-model-1d181a79e6574f90bd13659e6d291766)
+  **Author**: bailey.moss
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
 
 ### Weapons
 #### Meelee
@@ -39,14 +42,37 @@
 - [Austrian Musket](https://sketchfab.com/3d-models/austrian-musket-434934d2db8f48d0aa8e964164de47bc)
   **Author**: Nitropunch
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Blunderbuss max](https://sketchfab.com/3d-models/low-poly-blunderbuss-34418471b8f541749a64bb12592226a8)
+  **Author**: Luka92
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
 
 #### Pistols
 - [Lorenzoni Repeating Flintlock](https://sketchfab.com/3d-models/lorenzoni-repeating-flintlock-d01bda3588dc47e1923bb13ba6cdd9d3)
   **Author**: thegraphicsgeek
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
-
-- [Blunderbuss](https://sketchfab.com/3d-models/blunderbuss-4d266138c7c24d3ba5c14eb6553207a3)
+- [Flintlock Pistol](https://sketchfab.com/3d-models/flintlock-pistol-d74152eb0f2c4c408d82da04cd989add)
+  **Author**: arnaudbellour
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+???- [Blunderbuss mini](https://sketchfab.com/3d-models/blunderbuss-4d266138c7c24d3ba5c14eb6553207a3)
   **Author**: coleh96
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Deringer](https://sketchfab.com/3d-models/low-poly-deringer-f57f238064e4425cb6af0e064ad76391)
+  **Author**: Luka92
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Drakefire Pistol](https://sketchfab.com/3d-models/drakefire-pistol-bee02e85f22d4eaaa3c0144f11204843)
+  **Author**: Teliri
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Palm Pistol](https://sketchfab.com/3d-models/palm-pistol-5d6259c4a8e143b098508f1590da3a28)
+  **Author**: ParacosmicDrive
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Pistol revolver](https://sketchfab.com/3d-models/pistol-revolver-03ff51e3723a4698a68666225837904b)
+  **Author**: semyon.kan
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Vintage 2b Pistol](https://sketchfab.com/3d-models/vintage-pistol-cf7d6690225c426d99ae85661732901f)
+  **Author**: jgupner
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Simple flintlock pistol](https://sketchfab.com/3d-models/simple-flintlock-pistol-f7078ceccddd4f4c8cf9a3d8e3aa42f3)
+  **Author**: RomarovArt
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
 
 ### Furniture
@@ -60,4 +86,10 @@
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
 - [Pirate compass](https://sketchfab.com/3d-models/pirate-compass-3a51cfca26b34da7a8ac02af373cd130)
   **Author**: VincentBrindisi
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Kerosene lamp](https://sketchfab.com/3d-models/kerosene-lamp-6de39219fa5c4f86ac642821c7c4645f)
+  **Author**: Luka92
+  **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
+- [Old candlestick](https://sketchfab.com/3d-models/old-low-poly-candlestick-525a68c913c142ae985f856b68d8ba78)
+  **Author**: Luka92
   **License**: [CC Attribution](http://creativecommons.org/licenses/by/4.0/)
